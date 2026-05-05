@@ -4,11 +4,15 @@
 
 ![Banner](./screenshots/banner.jpg)
 
+<img src="/screenshots/banner.jpg" width="600" alt="Banner" />
+
 ## 📌 Descripción
 Este proyecto fue desarrollado como parte de la **Entrega Final** del curso de Desarrollo Web en Coderhouse.  
 Consiste en un sitio web responsive para **Moto Center**, una empresa ficticia dedicada a la venta de motos y asesoramiento personalizado.
 
 La entrega final incluye la aplicación de **estructura escalable usando SCSS**, animaciones, formularios funcionales, integración de SEO, uso de Open Graph y despliegue en Vercel.
+
+🌐 **[Ver Demo en Vivo](https://motocenter-cordoba.vercel.app/)**
 
 ---
 
@@ -62,12 +66,6 @@ La entrega final incluye la aplicación de **estructura escalable usando SCSS**,
 - Uso adecuado de etiquetas semánticas (`h1`, `p`, `section`, `article`, `nav`).
 - Imágenes con atributos `alt` descriptivos para accesibilidad y SEO.
 - Sitemap generado para ayudar a la indexación por motores de búsqueda.
-
----
-
-## 🚀 Despliegue en Vercel
-👉 El sitio completo está desplegado en Vercel:  
-🔗 [URL de Moto Center Final Proyect](https://motocenter-cordoba.vercel.app/)
 
 ---
 
