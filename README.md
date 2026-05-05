@@ -2,8 +2,6 @@
 **Autor:** Nicolás Báez  
 **Carrera de Desarrollo Frontend - Coderhouse**
 
-![Banner](./screenshots/banner.jpg)
-
 <img src="/screenshots/banner.jpg" width="600" alt="Banner" />
 
 ## 📌 Descripción
@@ -13,6 +11,20 @@ Consiste en un sitio web responsive para **Moto Center**, una empresa ficticia d
 La entrega final incluye la aplicación de **estructura escalable usando SCSS**, animaciones, formularios funcionales, integración de SEO, uso de Open Graph y despliegue en Vercel.
 
 🌐 **[Ver Demo en Vivo](https://motocenter-cordoba.vercel.app/)**
+
+---
+
+## 🎥 Video Demostrativo
+
+<div>
+
+<a href="https://www.youtube.com/watch?v=vKMiwK6YmE4">
+  <img src="https://img.youtube.com/vi/vKMiwK6YmE4/maxresdefault.jpg" alt="Video Preview" width="450">
+</a>
+
+[![Ver video en YouTube](https://img.shields.io/badge/YouTube-Ver_Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vKMiwK6YmE4)
+
+---
 
 ---
 
