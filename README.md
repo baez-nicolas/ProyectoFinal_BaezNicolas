@@ -72,13 +72,12 @@ La entrega final incluye la aplicación de **estructura escalable usando SCSS**,
 
 ---
 
-## ✅ Estado del proyecto
-Entrega final completa ✅  
-Sitio responsive, funcional, optimizado para SEO y con despliegue en la nube.
+## 👨‍💻 Autor
 
----
+**Nicolás Baez**
 
-## 🖼️ Captura del sitio
-
-### 🏠 Página de Inicio
-![Página de Inicio](./screenshots/home.png)
+- GitHub: [@baez-nicolas](https://github.com/baez-nicolas)
+- LinkedIn: [linkedin.com/in/baez-nicolas](https://www.linkedin.com/in/baez-nicolas/)
+- Proyecto: [MotoCenter](https://github.com/baez-nicolas/ProyectoFinal_BaezNicolas.git)
+- Demo: [motocenter-cordoba.vercel.app](https://motocenter-cordoba.vercel.app/)
+- Proyecto hecho únicamente con fines educativos y no comerciales
